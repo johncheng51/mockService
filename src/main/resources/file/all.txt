@@ -1,0 +1,63 @@
+$$_firstname 
+    john,jack,peter,jimmy,joe,
+    karen
+__end
+
+$$_lastname 
+   cheng,chan,water,river
+__end
+
+$$_string
+     work,sample,test,demo,joke,soap
+__end
+
+$$_middlename
+   tsang,test,test1
+__end
+
+$$_notfound
+   john cheng,karen cheng,cccc,dddd,eeee,ffff,gggg
+__end
+
+$$_email
+   johnchengvzw@gmail.com,johncheng4Java@gmail.com,
+   karen@yahoo.com
+__end
+
+$$_username
+   johntc00
+__end
+
+$$_vehiclename
+    toyata,honda,mazda,bycle
+__end
+
+$$_fourwheeler
+  altosteel,manualsteel
+__end
+
+$$_twowheeler
+  byclesteel
+__end
+
+$$_phone
+   (257) 563-7401,(372) 587-2335,(786) 713-8616,(793) 151-6230,
+   (492) 709-6392,(654) 393-5734,(123) 456-7879
+__end
+
+$$_street
+   83 Seaman,711-2880 Nulla St,P.O. Box 283 8562 Fusce Rd.,
+   606-3727 Ullamcorper. Street,Ap #867-859 Sit Rd.
+__end
+
+$$_city
+  West Orange,Mankato,Frederick,Tamuning
+__end
+
+$$_zipcode
+  07052,96522,20620,11523,10855
+__end
+
+$$_state
+  NJ,Mississippi,Nebraska,Roseville,NH,PA
+__end

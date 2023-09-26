@@ -1,0 +1,11 @@
+$$_name
+  book,paper,bulb
+__end
+
+$$_desc
+  JDK8 design,11x9 500,Light Saving 
+__end
+
+$$_price
+   42.00,9.00,6.00
+__end

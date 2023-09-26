@@ -1,0 +1,6 @@
+
+git init
+git add *.*
+git commit -m "first commit"
+git remote add origin https://github.com/johncheng51/mockService.git
+git push -u origin main

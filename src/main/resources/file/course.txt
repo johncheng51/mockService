@@ -1,0 +1,3 @@
+$$_coursename
+  Computer,Chemistry,Physics,Math
+__end
